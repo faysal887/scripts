@@ -8,3 +8,8 @@
   - Change cells width
   - Install jupyter dark theme
   - Save/load pickle files
+
+# send_email.py
+- Send email in python with attachment
+- Allows mulitple receivers
+- Allows multiple attachments
