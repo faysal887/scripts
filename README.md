@@ -1,4 +1,6 @@
 # Utility scripts
+This repository contains various useful scripts for data science projects.
+
 ## jupyter_init.ipynb
 - A jupyter boilerplate for data science projects.
 - Functionalities:
