@@ -1,4 +1,4 @@
-# Usage
+# Utility scripts
 ## jupyter_init.ipynb
 - A jupyter boilerplate for data science projects.
 - Functionalities:
