@@ -5,9 +5,9 @@ This repository contains various useful scripts for data science projects.
 - A jupyter boilerplate for data science projects.
 - Functionalities:
   - Collapsible sections
-  - Auto reload of file imported file if it is modified
-  - Ignore warinings
-  - Select how many rows and columns to print when printing dataframe
+  - Auto reload of imported file if it is modified
+  - Ignore warnings
+  - Select max rows and columns to print when printing complete dataframe
   - Change cells width
   - Install jupyter dark theme
   - Save/load pickle files
