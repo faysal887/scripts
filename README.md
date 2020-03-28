@@ -19,3 +19,6 @@ This repository contains various useful scripts for data science projects.
 
 ## randomforest_optimal.ipynb
 - Random forest code with randomsearch and gridsearch for finding optimal parameters.
+
+## fasttext_optimal_classify.ipynb
+- Fasttext code with with autotune for finding optimal parameters.
