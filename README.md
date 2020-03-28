@@ -16,3 +16,6 @@ This repository contains various useful scripts for data science projects.
 - Send email in python with attachment
 - Allows mulitple receivers
 - Allows multiple attachments
+
+## randomforest_optimal.ipynb
+- Random forest code with randomsearch and gridsearch for finding optimal parameters.
