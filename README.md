@@ -22,3 +22,6 @@ This repository contains various useful scripts for data science projects.
 
 ## fasttext_optimal_classify.ipynb
 - Fasttext code with with autotune for finding optimal parameters.
+
+## fasttext_classify_bagging.ipynb
+- Bagging for NLP data with fasttext, also used for EDA to check on which categories we are performing good.
