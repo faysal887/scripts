@@ -25,3 +25,12 @@ This repository contains various useful scripts for data science projects.
 
 ## fasttext_classify_bagging.ipynb
 - Bagging for NLP data with fasttext, also used for EDA to check on which categories we are performing good.
+
+## rf_modeling.ipynb
+- RF classification complete notebook (source: fastai ml1).
+
+## rf_interpretation.ipynb
+- Data Interpretation using RF complete notebook (source: fastai ml1).
+
+## fastai_utils.py
+- FastAi required functions to run notebooks without fastai installation.
