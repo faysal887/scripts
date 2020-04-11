@@ -36,4 +36,4 @@ This repository contains various useful scripts for data science projects.
 - FastAi required functions to run notebooks without fastai installation.
 
 ## find_validation_set.ipynb
-- Notebook for finding optimal validation set. This technique is very useful for kaggle competitions where test scores are kaggle scores after submission. This will help us in finding a good validation set according to the hidden kaggle's test set.
+- Notebook for finding optimal validation set. This technique is very useful for kaggle competitions where test scores are kaggle scores after submission. This will help us in finding a good validation set according to the kaggle's hidden test set.
